@@ -3,6 +3,7 @@ softdevstuff
 
 Stuff done in softdev<br>
 ###Projects
+=========
 ####Search Engine<br>
 ######Max Zhou, Kyler Chase, Richard Zhan, Christina Ko
 Uses the odd google package to to language processing and search for stuff.<br>
@@ -14,6 +15,7 @@ A basic blog implemented in SQL.<br>
 https://github.com/Citronnade/python-attack-of-the-pythons.git
 
 ###Mini-projects
+============
 ####Regex
 ######Max Zhou, Ling Dong
 7/regexp/Ling-BrianG
