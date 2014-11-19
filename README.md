@@ -25,3 +25,6 @@ https://github.com/ivywong/mongo-login-manager.git
 ###intro-1
 ######Max Zhou, Ivy Wong
 7/intro-proj1/ivy-max
+###API exercise
+######Max Zhou, Derek Tsui, Ling Dong
+https://github.com/asprout/applei
