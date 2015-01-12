@@ -4,6 +4,11 @@ softdevstuff
 Stuff done in softdev<br>
 ###Projects
 =========
+####Bizcuits<br>
+######Max Zhou, Ivy Wong, Barak Zhou, Ling Dong
+Reverse yelp; people vote on what businesses are needed in a neighborhood.<br>
+https://github.com/zhoubw/Bizcuits
+
 ####Search Engine<br>
 ######Max Zhou, Kyler Chase, Richard Zhan, Christina Ko
 Uses the odd google package to to language processing and search for stuff.<br>
