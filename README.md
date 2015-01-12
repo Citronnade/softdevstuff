@@ -7,7 +7,7 @@ Stuff done in softdev<br>
 ####Bizcuits<br>
 ######Max Zhou, Ivy Wong, Barak Zhou, Ling Dong
 Reverse yelp; people vote on what businesses are needed in a neighborhood.<br>
-https://github.com/zhoubw/Bizcuits
+https://github.com/zhoubw/Bizcuits.git
 
 ####Search Engine<br>
 ######Max Zhou, Kyler Chase, Richard Zhan, Christina Ko
